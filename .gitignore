@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/target
+*.iml
+.idea/
+dependency-reduced-pom.xml
+src/main/resources/
+src/test/
